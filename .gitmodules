@@ -13,3 +13,6 @@
 [submodule "support/jsftp"]
 	path = support/jsftp
 	url = https://github.com/ajaxorg/jsftp.git
+[submodule "support/node-dropbox"]
+	path = support/node-dropbox
+	url = git@github.com:Rendez/node-dropbox.git
